@@ -17,7 +17,7 @@ NEXT_PUBLIC_TITLE = "Digital Design and Development Diploma"
 var title = process.env.NEXT_PUBLIC_TITLE
 ```
 
-4. THe in between the main write:
+4. The in between the main write:
 ```
 {title}
 ```
